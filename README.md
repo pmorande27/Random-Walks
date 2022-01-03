@@ -10,6 +10,6 @@ Each Line represents a different random walk
 ### Random Walk in 1 Dimension
 ![This is an image](/Results/RandomWalk1D.png)
 ### Random Walk in 2 Dimension
-![This is an image](/Results/RandomWalk1D.png)
+![This is an image](/Results/RandomWalk2D.png)
 ### Random Walk in 3 Dimension
-![This is an image](/Results/RandomWalk1D.png)
+![This is an image](/Results/RandomWalk3D.png)
